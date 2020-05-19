@@ -14,4 +14,4 @@ test test
 
 
 stage
-tracks changes.
+git tracks changes of files.
